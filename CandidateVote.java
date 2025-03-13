@@ -1,4 +1,3 @@
-package bha;
 
 public enum CandidateVote {
 	Cycle,
