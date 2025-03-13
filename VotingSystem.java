@@ -1,4 +1,3 @@
-package bha;
 
 import java.io.FileWriter;
 import java.io.IOException;
